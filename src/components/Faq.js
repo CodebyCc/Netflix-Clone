@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import plut from "../plut.svg";
 
 // const answers = [
 //   {

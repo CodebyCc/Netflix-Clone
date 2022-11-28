@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../logo.svg";
 import kids from "../kids.png";
 import tv from "../tv.png";
 import mobile from "../mobile.jpg";
